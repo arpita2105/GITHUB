@@ -1,13 +1,13 @@
 # Solution:
 
-### Purpose of comments in HTML : 
+## Purpose of comments in HTML : 
 - The comment tag ( <!-- Comment--> ) is used to insert comments in the HTML code.
 - It is a simple piece of code that is ignored by web browsers i.e., not displayed by the       browser. 
 - It helps the coder and reader to understand the piece of code.
 - It is useful to understand steps of the complex code.
 - The comment tag is helpful while the debugging of codes.    
 
-**Syntax:** <!--Write your Comments here -->
+**Syntax:** `<!--Write your Comments here -->`
 
 - Types of Comment:
    
@@ -16,7 +16,7 @@
     - **Using <comment> tag :** There used to be an HTML <comment> tag, but currently it is not supported by any modern browser.
 
 
-### Example :
+## Example :
 
           <!DOCTYPE html>
           <html lang="en">
