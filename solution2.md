@@ -10,10 +10,7 @@
 **Syntax:** <!--Write your Comments here -->
 
 - Types of Comment:
-    - Single-line comment
-    - Multi-lines comment
-    - Using <comment> tag
-
+   
        - **Single-line comment :**  Single line comment is given inside the ( <!–  comment –> ) tag. 
        - **Multi-lines comment :**  Multiple lines can be given by the syntax (<!– –>), Basically it’s the same as we used in single line comment, difference is half part of the comment (” –> “), is appended where the intended comment line ends. 
        - **Using <comment> tag :** There used to be an HTML <comment> tag, but currently it is not supported by any modern browser.
